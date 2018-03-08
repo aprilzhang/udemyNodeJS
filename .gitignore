@@ -2,3 +2,7 @@ notes-node/node_modules/
 weather-app/node_modules/
 node-web-server/node_modules/
 node-tests/node_modules/
+node-todo-api/node_modules/
+node-todo-api/.git/
+node-todo-api/.gitignore
+node-todo-api/server/config/config.json
